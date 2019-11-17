@@ -1,0 +1,247 @@
+.birinci{
+    padding: 15rem 0rem 15rem 0rem;
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.birinci h1{
+    text-align: center;
+    font-size: 54px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #212529;
+    font-weight: 700;
+}
+.birinci p{
+    text-align: center;
+    font-size: 29px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #212529;
+    font-style: italic;
+    font-weight: 700;
+
+}
+.birinci button{
+    text-align: center;
+    padding: 20px 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #1D809F;
+    border: #1D809F;
+    border-radius: 3%;
+    cursor: pointer;
+}
+.ikinci{
+    padding: 7.5rem 0rem 7.5rem 0rem;
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.ikinci h1{
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #212529;
+    font-weight: 700;
+}
+.ikinci p{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #212529;
+    font-style: italic;
+
+}
+.ikinci button{
+    text-align: center;
+    padding: 20px 25px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    background-color:#343A40;
+    border: #343A40;
+    border-radius: 3%;
+    cursor: pointer;
+}
+#ucuncu{
+    padding: 4rem 0rem 15rem 0rem;
+    background-color: #1d809f;
+    background-position: center;
+    background-size: cover;
+}
+#ucuncu .ana{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+#ucuncu .ana .bala{
+    float: left;
+    width: 20%;
+    margin: 0px 20px;
+}
+.bala i{
+    background-color: white;
+    color:#1d809f;
+    border-radius: 50%;
+    padding: 30px;
+}
+.bala h1,p{
+    color: white;
+}
+.bala p{
+    opacity: 0.8;
+}
+.bala .telephone{
+    background-color: white;
+    color:#1d809f;
+    border-radius: 50%;
+    padding: 30px 35px;
+}
+.bala .question{
+    background-color: white;
+    color:#1d809f;
+    border-radius: 50%;
+    padding: 30px 35px;
+}
+#ucuncu .text{
+    text-align: center;
+    color: white;
+}
+.text h1{
+    font-size: 16px;
+    color: #ecb807;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 0px;
+}
+.text p{
+    font-size: 48px;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    margin-top: 0px;
+}
+.dorduncu{
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 15rem;
+}
+.dorduncu h1{
+    font-size: 60px;
+    font-weight: bold;
+    margin:0px,225px,48px;
+}
+.dorduncu button{
+    background-color:#1d809f;
+    border-radius: 10px;
+    color: white;
+    padding:18px 25px;
+    font-size: 16px;
+    font-weight:bold;
+    border: none;
+    cursor: pointer;
+}
+.dordunccu span{
+    font-style:italic;
+}
+#besinci{
+    padding: 8rem 0rem 8rem 0rem;
+    background-position: center;
+    background-size: cover; 
+}
+#besinci .besinci-text{
+    text-align: center;
+}
+.besinci-text h1{
+    color: #ecb807;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 0px;
+}
+.besinci-text p{
+    margin-top: 0px;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #212529;
+}
+#besinci .hover{
+    margin: auto;
+    width: 80%;
+}
+.hover .box{
+    float: left;
+    width:50%;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.box img{
+    width: 100%;
+}
+.box:hover{
+    transform: scale(0.7);
+    opacity: 0.5;
+}
+.altinci{
+    background-color: #1d809f;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 8rem 0rem;
+    margin-top: 800px;
+}
+.altinci h1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.altinci .button1{
+    border: none;
+    font-size: 20px;
+    padding: 20px;
+    background-color: white;
+    color: darkslategray;
+    border-radius: 5px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.altinci .button2{
+    border: none;
+    font-size: 20px;
+    padding: 20px;
+    background-color:darkslategray;
+    color:white; 
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.yeddinci{
+    padding: 3rem;
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+}
+.icon{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+.icon .icons{
+    float: left;
+    width:30%;
+}
+.icons{
+    color:#1d809f;
+    font-size: 32px;
+    cursor: pointer;
+}
+.copy p{
+    text-align: center;
+    color: #6c7574;
+    font-size: 16px;
+}
